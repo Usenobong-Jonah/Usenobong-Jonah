@@ -2,8 +2,6 @@
 
 **Systems Diagnostics Engineer · Founder, CursorLord Systems**
 
-I build developer tools, diagnostic systems, and business software.
-
 My work focuses on systems that need clear logic, predictable behavior, and useful failure analysis.
 
 ## What I Build
