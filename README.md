@@ -1,6 +1,6 @@
 # Usenobong Jonah
 
-**Web Systems Engineer · Founder, CursorLord Systems**
+**Systems Diagnostics Engineer · Founder, CursorLord Systems**
 
 I build developer tools, diagnostic systems, and business software.
 
@@ -29,14 +29,7 @@ The model is used in my diagnostic work and evaluation research around software 
 **Diagnosis Engine**
 A client-side diagnostic system built around PBRCIM. It analyzes execution logs and isolates likely failure patterns.
 
-**SalesTrack Pro**
-A business management system for inventory, sales, reporting, audit trails, and operational analytics.
-
-**MedsTrack Pro**
-A patient and medication management system designed for structured clinical workflows.
-
-**Developer Tools**
-I also build focused utilities for JSON, regular expressions, Markdown, deployment workflows, log analysis, and other everyday engineering tasks.
+* **K8s Fault Analyzer (Light Edition):** An air-gapped, offline diagnostic utility engineered to isolate 10 critical cluster failure vectors (OOMKilled, admission webhooks, image pull failures, and more) with zero external API calls.
 
 ## Engineering Focus
 
@@ -44,7 +37,7 @@ I also build focused utilities for JSON, regular expressions, Markdown, deployme
 Designing systems that remain understandable as they grow.
 
 **Diagnostics**
-Tracing failures back to the conditions that produced them.
+Providing on-demand Diagnosis-as-a-Service (DaaS) for enterprises and teams tackling high-severity infrastructure faults.
 
 **Developer Tooling**
 Building practical tools that remove repetitive work.
